@@ -1,0 +1,9 @@
+{
+ "name": "Firefox for Android",
+ "children": [
+  {"name": "1.0", "size": 3938},
+  {"name": "1.02", "size": 3812},
+  {"name": "2.0", "size": 6714},
+  {"name": "2.2", "size": 743}
+ ]
+}

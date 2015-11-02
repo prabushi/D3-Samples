@@ -1,0 +1,17 @@
+{
+"name":"Firefox",
+"children":[
+	{ "name": "39.0", "value": 20},
+	{ "name": "40.0.3", "value": 14},
+	{ "name": "41.0", "value": 12},
+	{ "name": "40.0.2", "value": 8},
+	{ "name": "41.0.1", "value": 7},
+	{ "name": "38.0.5", "value": 6},
+	{ "name": "39.0.3", "value": 3},
+	{ "name": "41.0.2", "value": 3},
+	{ "name": "Unknown", "value": 3},
+	{ "name": "38.0", "value": 2},
+	{ "name": "38.0", "value": 2},
+	{ "name": "42.0", "value": 1}	
+]
+}
